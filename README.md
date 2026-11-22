@@ -1,5 +1,3 @@
-# bookmark-landing-page
-Frontend Mentor Bookmark landing page challenge — responsive UI with interactive feature tabs, FAQ accordion, and email validation.
 # Frontend Mentor - Bookmark landing page
 
 ![Design preview for the Bookmark landing page coding challenge](preview.jpg)
